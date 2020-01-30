@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/address-calculator/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/address-calculator/static/js/main.26418f25.chunk.js",
+    "main.js.map": "/address-calculator/static/js/main.26418f25.chunk.js.map",
+    "runtime-main.js": "/address-calculator/static/js/runtime-main.c029ab70.js",
+    "runtime-main.js.map": "/address-calculator/static/js/runtime-main.c029ab70.js.map",
+    "static/js/2.3574c20a.chunk.js": "/address-calculator/static/js/2.3574c20a.chunk.js",
+    "static/js/2.3574c20a.chunk.js.map": "/address-calculator/static/js/2.3574c20a.chunk.js.map",
+    "index.html": "/address-calculator/index.html",
+    "precache-manifest.682dce991762189eb4e0411070acf586.js": "/address-calculator/precache-manifest.682dce991762189eb4e0411070acf586.js",
+    "service-worker.js": "/address-calculator/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/address-calculator/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.3574c20a.chunk.js.LICENSE": "/address-calculator/static/js/2.3574c20a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c029ab70.js",
+    "static/js/2.3574c20a.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.26418f25.chunk.js"
+  ]
+}
